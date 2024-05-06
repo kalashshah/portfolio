@@ -1,0 +1,78 @@
+{
+  "data": [
+    {
+      "company": "Push Protocol",
+      "link": "https://www.linkedin.com/company/push-protocol/",
+      "experiences": [
+        {
+          "title": "Software Developer",
+          "location": "Remote",
+          "start": "June 2023",
+          "end": "Present",
+          "description": [
+            "Developed the Push React Native and Swift SDKs",
+            "Implemented login and guest mode features, resulting in a significant enhancement of the user on-boarding rate by on the web app and on the mobile app.",
+            "Achieved a 38% reduction in API calls by optimizing calls throughout the mobile application.",
+            "Enhanced page load speed throughout the app by an average of 22% through strategic optimization.",
+            "Memoized heavy components in the mobile app, resulting in additional component load time reductions of over 20%.",
+            "Developed a peer-to-peer video calling experience on the mobile app, facilitating secure and decentralized communication.",
+            "Contributed significantly to the development of the web app, mobile app, and the React Native and Swift software development kits (SDKs) targeting mobile platforms"
+          ]
+        },
+        {
+          "title": "Mobile App Developer Intern",
+          "location": "Remote",
+          "start": "March 2023",
+          "end": "June 2023",
+          "description": [
+            "Worked on bringing Push Video to the mobile application"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Safe Ship Navigation ISRO, Department of Space, Government of India",
+      "experiences": [
+        {
+          "title": "Software Developer Intern",
+          "location": "Gandhinagar, India",
+          "start": "July 2022",
+          "end": "March 2023",
+          "description": [
+            "Developed an Ionic application, orchestrated a PostGIS database, and engineered a Node.js server for a secure ship navigation solution for the Indian Space Research Organization under IIITV professors."
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Brew My Tech",
+      "link": "https://www.linkedin.com/company/brewmytech/",
+      "experiences": [
+        {
+          "title": "Software Development Consultant",
+          "location": "Remote",
+          "start": "Dec 2022",
+          "end": "Feb 2023",
+          "description": [
+            "Developed a Next.js frontend centered application for a client."
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Indian Institute of Information Technology, Vadodara",
+      "link": "https://iiitvadodara.ac.in/",
+      "experiences": [
+        {
+          "title": "Student",
+          "location": "Gandhinagar, India",
+          "start": "Dec 2020",
+          "end": "May 2024",
+          "description": [
+            "Pursuing a Bachelor's degree in Computer Science and Engineering"
+          ]
+        }
+      ]
+    }
+  ]
+}

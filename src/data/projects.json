@@ -1,0 +1,101 @@
+{
+  "data": [
+    {
+      "name": "Irada - mobile app",
+      "description": "Your web3 wallet and assistant. Supports Google Assistant to send crypto to your contacts. Also supports creating and restoring wallets, sending and receiving crypto, viewing transaction history, wallet connect to connect to dapps, scheduled transactions, and more.",
+      "image": "/images/projects/irada.png",
+      "links": [
+        {
+          "name": "YOUTUBE",
+          "url": "https://www.youtube.com/watch?v=T1euI3UXAjE"
+        },
+        {
+          "name": "GITHUB",
+          "url": "https://github.com/kitai-hazure/irada-rn"
+        }
+      ]
+    },
+    {
+      "name": "Gnosis Lounge",
+      "description": "The objective is to establish a comprehensive loyalty and rewards program tailored for Gnosis Pay cardholders. While envisioning a universal protocol for loyalty and rewards within the Gnosis ecosystem, we're launching a proof of concept focused on Airport Lounge access.",
+      "image": "/images/projects/gnosislounge.jpeg",
+      "links": [
+        {
+          "name": "PREVIEW",
+          "url": "https://gnosis-lounge.vercel.app/"
+        },
+        {
+          "name": "GITHUB",
+          "url": "https://github.com/kitai-hazure/scaling-eth-24"
+        }
+      ]
+    },
+    {
+      "name": "Graphenous",
+      "description": "An application to help coders keep track of their coding activity and growth across multiple platforms! Currently the app supports github, leetcode and codeforces profile.",
+      "image": "/images/projects/graphenous.webp",
+      "links": [
+        {
+          "name": "PLAYSTORE",
+          "url": "https://play.google.com/store/apps/details?id=com.kitaihazure.graphenous1"
+        },
+        {
+          "name": "GITHUB",
+          "url": "https://github.com/kalashshah/programmer-profile-backend"
+        }
+      ]
+    },
+    {
+      "name": "Shishya - SIH 2022 Winner",
+      "description": "Mobile app and website to provide one-point verification of student profiles for college admission processes.",
+      "image": "/images/projects/shishya.png",
+      "links": [
+        {
+          "name": "GITHUB",
+          "url": "https://github.com/Shishya-App/"
+        }
+      ]
+    },
+    {
+      "name": "DTender",
+      "description": "Decentralized bidding: where trust and transparency meet efficiency",
+      "image": "/images/projects/dtender.png",
+      "links": [
+        {
+          "name": "PREVIEW",
+          "url": "https://d-tender.vercel.app/"
+        },
+        {
+          "name": "YOUTUBE",
+          "url": "https://www.youtube.com/watch?v=RW5zHzjfPtU"
+        }
+      ]
+    },
+    {
+      "name": "Pension Flow",
+      "description": "Pension Flow is a decentralized pension fund management platform that allows companies to create and manage their pension funds in a decentralized manner.",
+      "image": "/images/projects/pensionflow.png",
+      "links": [
+        {
+          "name": "PREVIEW",
+          "url": "https://pension-flow.vercel.app/"
+        },
+        {
+          "name": "GITHUB",
+          "url": "https://github.com/Pension-Flow/pension-flow"
+        }
+      ]
+    },
+    {
+      "name": "Expense Tracker",
+      "description": "A simple expense tracker app built using React Native.",
+      "image": "/images/empty.webp",
+      "links": [
+        {
+          "name": "GITHUB",
+          "url": "https://github.com/kalashshah/expense-tracker-app"
+        }
+      ]
+    }
+  ]
+}
